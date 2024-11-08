@@ -13,7 +13,7 @@ def find_resource_files(source_dir):
 resource_files = find_resource_files('resources')
 
 setup(
-    name='security365diagrams',
+    name='diagrams',
     version='0.2',
     packages=find_packages(),
     include_package_data=True,
