@@ -7,7 +7,7 @@ resource_files = [
 
 setup(
     name='diagrams-security365',
-    version='0.1',
+    version='0.2',
     packages=find_packages(),
     include_package_data=True,
     package_data={
